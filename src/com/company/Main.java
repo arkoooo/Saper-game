@@ -5,7 +5,7 @@ import java.util.InputMismatchException;
 /**
  * Game Saper
  * The game consists in marking boxes without bombs. Each digit in the game means the number of bombs around it.
- * @author Arkadiusz Kubiak, Krystian Polok
+ * @author Arkadiusz Kubiak
  * @version 1.0
  * @since 23.01.2018
  *
