@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Saper KA PK:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Saper_KA_PK_jar</output-path>
+    <root id="archive" name="Saper KA PK.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Saper KA PK" />
+    </root>
+  </artifact>
+</component>
